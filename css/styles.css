@@ -46,6 +46,8 @@ p {
 
 label {
     font-weight: bold;
+    display: inline-block;
+    width: 100px;
 }
 
 input[type="text"] {
